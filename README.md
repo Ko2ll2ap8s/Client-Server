@@ -57,9 +57,10 @@
   
   ![image](https://github.com/Ko2ll2ap8s/Client-Server/assets/116292559/c22bfded-9704-4797-b64e-39c93733f20c)
 
-    
+# 8. Примечание.
 
-    
+   ОС: alce-2.12.46.6-17.04.2023_15.09
+   Python 3.5
 
     
 
